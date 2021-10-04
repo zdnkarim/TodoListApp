@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_hint_task_name">Task Name</string>
+    <string name="text_hint_task_description">Task Description</string>
+    <string name="text_hint_task_header_url">Task Header Image Url</string>
+    <string name="text_btn_save_task">Save</string>
+    <string name="text_title_task_form_activity">Create New Task</string>
+</resources>

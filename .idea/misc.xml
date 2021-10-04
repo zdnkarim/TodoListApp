@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/bg_gradient_black.xml" value="0.240625" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/bg_rounded_white_8.xml" value="0.240625" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/ic_about.xml" value="0.23692307692307693" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/ic_add_todo.xml" value="0.23692307692307693" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23692307692307693" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/ic_share.xml" value="0.23692307692307693" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/drawable/ic_task.xml" value="0.23692307692307693" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/activity_task_detail.xml" value="0.22447916666666667" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/activity_task_form.xml" value="0.22447916666666667" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/fragment_about_dialog.xml" value="0.33" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/fragment_task_list.xml" value="0.25" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/layout/item_task.xml" value="0.25" />
+        <entry key="..\:/MBKM/Binar Academy/APP/TodoListApp/app/src/main/res/menu/menu_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
